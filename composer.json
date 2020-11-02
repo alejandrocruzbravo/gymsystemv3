@@ -1,0 +1,11 @@
+{
+    "name": "alexc/gimnasiov3",
+    "description": "mi negocio web",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
